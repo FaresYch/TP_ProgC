@@ -3,3 +3,5 @@ git pull origin master
 git add .
 git commit -m "Ton message ici"
 git push origin master
+
+git add . && git commit -m "Rien" && git push origin master
