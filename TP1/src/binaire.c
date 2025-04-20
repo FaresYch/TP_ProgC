@@ -6,10 +6,9 @@ void printBinaire(int dec){
     
     printf("%d => ", dec);
 
-    if (dec == 0) {
+    if (dec == 0) 
         printf("0");
-        return;
-    }
+
 
     while (copie > 0) {
         taille++;
